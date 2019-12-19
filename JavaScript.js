@@ -114,3 +114,11 @@ for (let i = 0; i < 22222; i++) {
 let endAt = performance.now();
 
 console.log(` ${endAt - startAt} milliscensds to execute`);
+
+/*
+This article describes how to find an object in an array.
+This link has many interesting comments.
+
+https://medium.com/@osuissa/javascript-buscas-em-arrays-parte-1-aff64d22174
+
+*/
