@@ -122,3 +122,9 @@ This link has many interesting comments.
 https://medium.com/@osuissa/javascript-buscas-em-arrays-parte-1-aff64d22174
 
 */
+
+/*
+This function changes a letter of the first word to uppercase.
+*/
+
+keyWordString.charAt(0).toUpperCase() + KeyWordString.slice(1)
