@@ -12,3 +12,7 @@ EntropyString (Generate cryptographically) -> https://www.npmjs.com/package/entr
 Yup (Object schema validator and object parser) -> https://www.npmjs.com/package/yup
 <br/>
 React Spinners (Collection of loading spinners) -> https://www.npmjs.com/package/react-spinners
+
+Videos
+
+Text Animation - fade (Vanilla JS) -> https://youtu.be/GUEB9FogoP8
