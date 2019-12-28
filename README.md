@@ -1,3 +1,6 @@
+<h1>MY REFERENCES IN THE DEVELOPMENT WORLD<h1>
+
+
 Links userfull
 
 Avatar -> http://avatars.adorable.io/
@@ -15,6 +18,6 @@ React Spinners (Collection of loading spinners) -> https://www.npmjs.com/package
 
 Videos
 
-Text Animation - fade (Vanilla JS) -> https://youtu.be/GUEB9FogoP8
+Text Animation - fade (Vanilla JS) by Dev Ed -> https://youtu.be/GUEB9FogoP8
 <br/>
-NodeJS Course(Rodrigo Branas) -> https://www.youtube.com/playlist?list=PLQCmSnNFVYnTFo60Bt972f8HA4Td7WKwq
+NodeJS Course by Rodrigo Branas -> https://www.youtube.com/playlist?list=PLQCmSnNFVYnTFo60Bt972f8HA4Td7WKwq
