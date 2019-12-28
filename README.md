@@ -16,3 +16,5 @@ React Spinners (Collection of loading spinners) -> https://www.npmjs.com/package
 Videos
 
 Text Animation - fade (Vanilla JS) -> https://youtu.be/GUEB9FogoP8
+<br/>
+NodeJS Course -> https://www.youtube.com/playlist?list=PLQCmSnNFVYnTFo60Bt972f8HA4Td7WKwq
