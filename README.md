@@ -14,9 +14,11 @@ EntropyString (Generate cryptographically) -> https://www.npmjs.com/package/entr
 Yup (Object schema validator and object parser) -> https://www.npmjs.com/package/yup
 <br/>
 React Spinners (Collection of loading spinners) -> https://www.npmjs.com/package/react-spinners
-
+<br/>
 Lodash (Performance & extras JS) -> https://lodash.com/
-
+</br>
+React Lazy Load Image Component (An easy-to-use performant solution to lazy load images in React)-> https://github.com/Aljullu/react-lazy-load-image-component
+ 
 Videos
 
 Text Animation - fade (Vanilla JS) by Dev Ed -> https://youtu.be/GUEB9FogoP8
