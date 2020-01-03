@@ -128,3 +128,15 @@ This function changes a letter of the first word to uppercase.
 */
 
 keyWordString.charAt(0).toUpperCase() + KeyWordString.slice(1)
+
+
+/*New way to create conditions*/
+function getCity(state){ 
+   "MG": ()=> "Belo Horizonte",
+   "PR": ()=> "Paraná",
+   "MT": ()=> "Mato Grosso",
+   "SP": ()=> "São Paulo"
+   return (city[state] || "Não encontrado"
+ };
+           
+ console.log(getCity("PR"));
