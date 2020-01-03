@@ -136,7 +136,7 @@ function getCity(state){
    "PR": ()=> "Paraná",
    "MT": ()=> "Mato Grosso",
    "SP": ()=> "São Paulo"
-   return (city[state] || "Não encontrado"
+   return (city[state] || "Not found"
  };
            
  console.log(getCity("PR"));
