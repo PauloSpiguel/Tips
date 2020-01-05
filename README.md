@@ -15,6 +15,8 @@ Yup (Object schema validator and object parser) -> https://www.npmjs.com/package
 <br/>
 React Spinners (Collection of loading spinners) -> https://www.npmjs.com/package/react-spinners
 <br/>
+Spinner -> https://reactjsexample.com/build-a-smooth-and-lightweight-react-component-loading-with-css/
+<br/>
 Redux Persist (LocalSotorege and other)-> npm install --save redux-persist 
 Lodash (Performance & extras JS) -> https://lodash.com/
 <br/>
@@ -22,6 +24,7 @@ React Lazy Load Image Component (An easy-to-use performant solution to lazy load
 <br/>
 react-shimmer-effect(Fluid correction for items on screen.) -> https://www.npmjs.com/package/react-shimmer-effect
 <br/>
+
 
  
 Videos
