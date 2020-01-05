@@ -30,3 +30,5 @@ NodeJS Course by Rodrigo Branas -> https://www.youtube.com/playlist?list=PLQCmSn
 Links Articles
 
 Libs Performance -> https://king.host/wiki/artigo/boas-bibliotecas-javascript-para-utilizar-em-seu-projeto/
+<br/>
+Libs 2020 -> https://blog.bitsrc.io/13-top-react-component-libraries-for-2020-488cc810ca49
