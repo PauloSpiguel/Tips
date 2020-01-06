@@ -24,6 +24,7 @@ React Lazy Load Image Component (An easy-to-use performant solution to lazy load
 <br/>
 react-shimmer-effect(Fluid correction for items on screen.) -> https://www.npmjs.com/package/react-shimmer-effect
 <br/>
+Icons -> https://fontawesome.com/cheatsheet/pro
 
 
  
