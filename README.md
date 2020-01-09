@@ -7,6 +7,8 @@ Avatar -> http://avatars.adorable.io/
 Handpicked colors -> https://flatuicolors.com/
 <br/>
 Example ReactJS -> https://reactjsexample.com/
+<br/>
+Random image -> https://picsum.photos/600
 
 Libs userfull
 
