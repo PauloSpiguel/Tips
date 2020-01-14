@@ -44,3 +44,5 @@ Links Articles
 Libs Performance -> https://king.host/wiki/artigo/boas-bibliotecas-javascript-para-utilizar-em-seu-projeto/
 <br/>
 Libs 2020 -> https://blog.bitsrc.io/13-top-react-component-libraries-for-2020-488cc810ca49
+<br/>
+Methods userfull array -> https://bognarjunior.wordpress.com/2015/01/12/string-javascript-metodos/
