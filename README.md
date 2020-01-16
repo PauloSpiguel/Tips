@@ -9,8 +9,13 @@ Handpicked colors -> https://flatuicolors.com/
 Example ReactJS -> https://reactjsexample.com/
 <br/>
 Random image -> https://picsum.photos/600
+<br/>
+HeatMaps -> http://www.ajaxshake.com/demo/EN/874/c25e9e16/html5-canvas-based-heatmaps-heatmap.html
+
+
 
 Libs userfull
+
 
 EntropyString (Generate cryptographically) -> https://www.npmjs.com/package/entropy-string
 <br/>
@@ -46,3 +51,5 @@ Libs Performance -> https://king.host/wiki/artigo/boas-bibliotecas-javascript-pa
 Libs 2020 -> https://blog.bitsrc.io/13-top-react-component-libraries-for-2020-488cc810ca49
 <br/>
 Methods userfull array -> https://bognarjunior.wordpress.com/2015/01/12/string-javascript-metodos/
+<br/>
+Example CSS/JS/HTML -> https://www.cssscript.com/
