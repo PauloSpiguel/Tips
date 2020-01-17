@@ -53,4 +53,5 @@ Libs 2020 -> https://blog.bitsrc.io/13-top-react-component-libraries-for-2020-48
 Methods userfull array -> https://bognarjunior.wordpress.com/2015/01/12/string-javascript-metodos/
 <br/>
 Example CSS/JS/HTML -> https://www.cssscript.com/
+<br/>
 Flexbox -> https://www.devmedia.com.br/css3-flexbox-funcionamento-e-propriedades/29532
