@@ -55,3 +55,5 @@ Methods userfull array -> https://bognarjunior.wordpress.com/2015/01/12/string-j
 Example CSS/JS/HTML -> https://www.cssscript.com/
 <br/>
 Flexbox -> https://www.devmedia.com.br/css3-flexbox-funcionamento-e-propriedades/29532
+<br/>
+CSS Grip -> https://www.origamid.com/projetos/css-grid-layout-guia-completo/
