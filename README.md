@@ -35,8 +35,6 @@ react-shimmer-effect(Fluid correction for items on screen.) -> https://www.npmjs
 Icons -> https://fontawesome.com/cheatsheet/pro
 </br>
 Loading-Container -> https://danilowoz.com/create-content-loader/
-
-
  
 Videos
 
@@ -57,3 +55,5 @@ Example CSS/JS/HTML -> https://www.cssscript.com/
 Flexbox -> https://www.devmedia.com.br/css3-flexbox-funcionamento-e-propriedades/29532
 <br/>
 CSS Grip -> https://www.origamid.com/projetos/css-grid-layout-guia-completo/
+<br/>
+Useing babel root import -> https://henriquetavares.com/pt-br/root-import-reactjs/
