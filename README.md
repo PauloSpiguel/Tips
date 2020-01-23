@@ -57,3 +57,5 @@ Flexbox -> https://www.devmedia.com.br/css3-flexbox-funcionamento-e-propriedades
 CSS Grip -> https://www.origamid.com/projetos/css-grid-layout-guia-completo/
 <br/>
 Useing babel root import -> https://henriquetavares.com/pt-br/root-import-reactjs/
+<br/>
+API-FAKE JSON -> https://medium.com/@andrewchanm/criando-uma-api-rest-fake-com-json-server-9a312127f6d6
