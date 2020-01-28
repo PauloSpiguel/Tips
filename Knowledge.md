@@ -35,6 +35,8 @@ react-shimmer-effect(Fluid correction for items on screen.) -> https://www.npmjs
 Icons -> https://fontawesome.com/cheatsheet/pro
 </br>
 Loading-Container -> https://danilowoz.com/create-content-loader/
+</br>
+DatePicker -> https://www.daterangepicker.com/#example5
  
 Videos
 
