@@ -37,6 +37,8 @@ Icons -> https://fontawesome.com/cheatsheet/pro
 Loading-Container -> https://danilowoz.com/create-content-loader/
 </br>
 DatePicker -> https://www.daterangepicker.com/#example5
+</br>
+Validate Form -> https://react-hook-form.com/
  
 Videos
 
