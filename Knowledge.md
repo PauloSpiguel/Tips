@@ -39,6 +39,8 @@ Loading-Container -> https://danilowoz.com/create-content-loader/
 DatePicker -> https://www.daterangepicker.com/#example5
 </br>
 Validate Form -> https://react-hook-form.com/
+</br>
+Cropper -> https://github.com/kirill3333/react-avatar
  
 Videos
 
