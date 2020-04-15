@@ -65,3 +65,6 @@ CSS Grip -> https://www.origamid.com/projetos/css-grid-layout-guia-completo/
 Useing babel root import -> https://henriquetavares.com/pt-br/root-import-reactjs/
 <br/>
 API-FAKE JSON -> https://medium.com/@andrewchanm/criando-uma-api-rest-fake-com-json-server-9a312127f6d6
+
+annotations -> https://www.notion.so/
+Exemple layouts -> https://dribbble.com/ | https://www.pinterest.pt/
