@@ -67,4 +67,5 @@ Useing babel root import -> https://henriquetavares.com/pt-br/root-import-reactj
 API-FAKE JSON -> https://medium.com/@andrewchanm/criando-uma-api-rest-fake-com-json-server-9a312127f6d6
 
 annotations -> https://www.notion.so/
+<br/>
 Exemple layouts -> https://dribbble.com/ | https://www.pinterest.pt/
