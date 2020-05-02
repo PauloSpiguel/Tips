@@ -75,3 +75,8 @@ Exemple layouts -> https://dribbble.com/ | https://www.pinterest.pt/
 APPS TREINING
 <p>https://github.com/florinpop17/app-ideas</p>
 
+<br/>
+Colors & Themes
+
+<p>https://www.canva.com/pt_br/aprenda/cores-para-sites-50-paginas-impactantes/</p>
+
