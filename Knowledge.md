@@ -69,3 +69,9 @@ API-FAKE JSON -> https://medium.com/@andrewchanm/criando-uma-api-rest-fake-com-j
 annotations -> https://www.notion.so/
 <br/>
 Exemple layouts -> https://dribbble.com/ | https://www.pinterest.pt/
+
+
+<br/>
+APPS TREINING
+<p>https://github.com/florinpop17/app-ideas</p>
+
