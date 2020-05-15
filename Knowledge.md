@@ -81,3 +81,4 @@ Colors & Themes
 <p>https://www.canva.com/pt_br/aprenda/cores-para-sites-50-paginas-impactantes/</p>
 <p>https://coolors.co/</p>
 <p>https://apilist.fun/</p>
+<p>templete mobile-> https://www.epicpxls.com/</p>
