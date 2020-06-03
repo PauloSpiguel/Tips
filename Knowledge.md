@@ -87,7 +87,7 @@ Colors & Themes
 </br>
 Send email -> https://nodemailer.com/about/
 
-Power Repositories 
+<h4>Power Repositories</h4>
 
 <p> Diego Fernandes (Rocketseat) = https://github.com/diego3g?tab=repositories </p>
 
