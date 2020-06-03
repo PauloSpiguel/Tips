@@ -82,3 +82,8 @@ Colors & Themes
 <p>https://coolors.co/</p>
 <p>https://apilist.fun/</p>
 <p>templete mobile-> https://www.epicpxls.com/</p>
+
+<h2>NodeJS</h2>
+</br>
+Send email -> https://nodemailer.com/about/
+
