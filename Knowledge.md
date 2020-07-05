@@ -65,6 +65,8 @@ CSS Grip -> https://www.origamid.com/projetos/css-grid-layout-guia-completo/
 Useing babel root import -> https://henriquetavares.com/pt-br/root-import-reactjs/
 <br/>
 API-FAKE JSON -> https://medium.com/@andrewchanm/criando-uma-api-rest-fake-com-json-server-9a312127f6d6
+<br/> 
+Setup oh-mt-zsh in cmder/vscode => https://dev.to/devmozao/pt-br-rodando-oh-my-zsh-no-windows-86c
 
 annotations -> https://www.notion.so/
 <br/>
