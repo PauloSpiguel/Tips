@@ -92,7 +92,7 @@ Send email -> https://nodemailer.com/about/
 <h4>Power Repositories</h4>
 
 <p> Diego Fernandes (Rocketseat) => https://github.com/diego3g?tab=repositories </p>
-<p> Mateus Silva (Rocketseat) => https://github.com/maateusilva </p>
+<p> Mateus Silva (DevAcademy) => https://github.com/maateusilva </p>
 
 
 <h2>E-Books</h2>
