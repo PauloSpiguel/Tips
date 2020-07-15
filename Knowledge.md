@@ -91,5 +91,10 @@ Send email -> https://nodemailer.com/about/
 
 <h4>Power Repositories</h4>
 
-<p> Diego Fernandes (Rocketseat) = https://github.com/diego3g?tab=repositories </p>
+<p> Diego Fernandes (Rocketseat) => https://github.com/diego3g?tab=repositories </p>
+<p> Mateus Silva (Rocketseat) => https://github.com/maateusilva </p>
+
+
+##E-Books
+<p>Hooks - Mateus Silva => https://devacademy-contents.s3.amazonaws.com/ebooks/React+Hooks+-+Handbook+-+Por+Mateus+Silva.pdf </p> 
 
