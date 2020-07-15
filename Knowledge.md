@@ -95,6 +95,6 @@ Send email -> https://nodemailer.com/about/
 <p> Mateus Silva (Rocketseat) => https://github.com/maateusilva </p>
 
 
-##E-Books
+<h2>E-Books</h2>
 <p>Hooks - Mateus Silva => https://devacademy-contents.s3.amazonaws.com/ebooks/React+Hooks+-+Handbook+-+Por+Mateus+Silva.pdf </p> 
 
