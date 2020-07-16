@@ -67,6 +67,8 @@ Useing babel root import -> https://henriquetavares.com/pt-br/root-import-reactj
 API-FAKE JSON -> https://medium.com/@andrewchanm/criando-uma-api-rest-fake-com-json-server-9a312127f6d6
 <br/> 
 Setup oh-mt-zsh in cmder/vscode => https://dev.to/devmozao/pt-br-rodando-oh-my-zsh-no-windows-86c
+<br/>
+Context API + UseReducer => https://01dev.codes/tudo-sobre-context-api-react/
 
 annotations -> https://www.notion.so/
 <br/>
