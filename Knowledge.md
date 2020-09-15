@@ -74,6 +74,9 @@ annotations -> https://www.notion.so/
 <br/>
 Exemple layouts -> https://dribbble.com/ | https://www.pinterest.pt/
 
+<br/>
+SVG -> https://blog.rocketseat.com.br/melhores-sites-para-baixar-imagens-gratuitas-e-outros-recursos/#-svg
+
 
 <br/>
 APPS TREINING
