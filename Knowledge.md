@@ -10,8 +10,9 @@ Example ReactJS -> https://reactjsexample.com/
 <br/>
 Random image -> https://picsum.photos/600
 <br/>
-HeatMaps -> http://www.ajaxshake.com/demo/EN/874/c25e9e16/html5-canvas-based-heatmaps-heatmap.html
-
+HeatMaps -> http://www.ajaxshake.com/demo/EN/874/c25e9e16/html5-canvas-based-heatmaps-heatmap.htmlZ
+<br />
+Horigamed https://www.origamid.com/slide/react-completo/ 
 
 
 Libs userfull
