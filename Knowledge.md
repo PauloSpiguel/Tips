@@ -13,7 +13,8 @@ Random image -> https://picsum.photos/600
 HeatMaps -> http://www.ajaxshake.com/demo/EN/874/c25e9e16/html5-canvas-based-heatmaps-heatmap.htmlZ
 <br />
 Curso Horigamed https://www.origamid.com/slide/react-completo/ 
-
+<br />
+typscript with reactjs -> https://github.com/typescript-cheatsheets/react
 
 Libs userfull
 
