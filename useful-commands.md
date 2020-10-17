@@ -25,20 +25,20 @@ git reset --soft HEAD~1
 Shift + Option + A:
 ```
 
-**/* multiline comment */
+**/* multiline comment */**
 
 ```
 CMD + /:
 ```
-**// single line comment
+**// single line comment**
 
 `Windows:`
 ```
 Shift + Alt + A:
 ```
- **/* multiline comment */
+ **/* multiline comment */**
 
 ```CTRL + /:```
-**// single line comment
+**// single line comment**
 
 
