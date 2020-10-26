@@ -111,3 +111,8 @@ Send email -> https://nodemailer.com/about/
 <h2>E-Books</h2>
 <p>Hooks - Mateus Silva => https://devacademy-contents.s3.amazonaws.com/ebooks/React+Hooks+-+Handbook+-+Por+Mateus+Silva.pdf </p> 
 
+
+
+## New Concepts
+
+- [scroll-snap-type](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-snap-type)
