@@ -42,7 +42,9 @@ DatePicker -> https://www.daterangepicker.com/#example5
 </br>
 Validate Form -> https://react-hook-form.com/
 </br>
-Cropper -> https://github.com/kirill3333/react-avatar
+[Cropper](https://github.com/kirill3333/react-avatar)
+</br>
+[classNames](https://www.npmjs.com/package/classnames)
  
 Videos
 
