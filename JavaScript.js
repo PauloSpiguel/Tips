@@ -152,10 +152,10 @@ function getCity(state){
     return array.find(obj => obj.value === maxValue);
   }
  
- console.log([
+ console.log(getMax([
   {name: "positive", value: 12},
   {name: "neutral", value: 55},
   {name: "negative", value: 33},
-]);
+]));
 
 
