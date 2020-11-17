@@ -142,3 +142,20 @@ function getCity(state){
  };
            
  console.log(getCity("PR"));
+ 
+ 
+ ### Get object with max value
+ 
+
+  function getMax(array) {
+    const maxValue = Math.max(...array.map(obj => obj.value));
+    return array.find(obj => obj.value === maxValue);
+  }
+ 
+ console.log([
+  {name: "positive", value: 12},
+  {name: "neutral", value: 55},
+  {name: "negative", value: 33},
+]);
+
+
